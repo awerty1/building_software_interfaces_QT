@@ -1,7 +1,7 @@
 # Software Interface Labs 
 
 ## Description
-Labs contained code in QT 5, also the code was not always compiled. Lab work was done on QT 5. Labs did not contain personal tasks. It was enough to rewrite and compile.
+Labs contained code in QT 5, also the code was not always compiled. Lab work was done on QT 5. Labs didn't contain personal tasks. It was enough to rewrite and compile.
 ```
 Qt Creator 2.7.2
 Based on Qt 5.1.0 (32-bit)
