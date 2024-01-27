@@ -1,4 +1,4 @@
-# Software Interface Labs 
+# Development of interfaces for various software systems Labs 
 
 ## Description
 Labs contained code in QT 5, also the code was not always compiled. Lab work was done on QT 5. Labs didn't contain personal tasks. It was enough to rewrite and compile.
